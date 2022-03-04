@@ -1,0 +1,2 @@
+# Ignore sts_data, the raw data files directory
+sts_data/
